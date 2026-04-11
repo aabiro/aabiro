@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Aaryn
 
-<!--
-**aabiro/aabiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer building backend APIs, distributed systems, cloud platforms, and mobile applications.
 
-Here are some ideas to get you started:
+## Building
+- **Xcelsior**
+- **PixelEnhance Labs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working across
+Ruby • Python • React • Node.js • Flutter/Dart • Kotlin • PostgreSQL • Docker • Linux
+
+## Interests
+Backend systems • Platform architecture • Developer tooling • Mobile products
+
+## Links
+- [LinkedIn](https://www.linkedin.com/in/aabiro/)
+- [GitHub](https://github.com/aabiro)
