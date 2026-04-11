@@ -14,4 +14,3 @@ Backend systems • Platform architecture • Developer tooling • Mobile produ
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/aabiro/)
-- [GitHub](https://github.com/aabiro)
