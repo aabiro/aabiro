@@ -5,7 +5,8 @@ Senior software engineer building backend APIs, distributed systems, cloud platf
 ## Building
 - **Xcelsior**
 - **PixelEnhance Labs**
-
+- **PixelSpark (iOS/Android)**
+  
 ## Working across
 Ruby • Python • React • Node.js • Flutter/Dart • Kotlin • PostgreSQL • Docker • Linux
 
