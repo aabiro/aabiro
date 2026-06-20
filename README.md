@@ -3,7 +3,7 @@
 Senior software engineer building backend APIs, distributed systems, cloud platforms, and mobile applications.
 
 ## Building
-- **Xcelsior**
+- **Xcelsior (Next.js)**
 - **PixelEnhance Labs**
 - **PixelSpark (iOS/Android)**
   
