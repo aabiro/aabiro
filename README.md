@@ -8,7 +8,7 @@ Senior software engineer building backend APIs, distributed systems, cloud platf
 - **PixelSpark (iOS/Android)**
   
 ## Working across
-Python • React • Next.js • Node.js • Flutter/Dart • Swift • Kotlin • PostgreSQL • Docker • Linux
+Python • React • Next.js • Node.js • Swift • Kotlin • PostgreSQL • Docker • Linux
 
 ## Interests
 Backend systems • Platform architecture • Developer tooling • Mobile products
